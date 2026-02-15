@@ -1,6 +1,13 @@
 # AXS Video Chat Application
 
-A real-time video and text chat application designed for seamless communication between Agents and Customers. Built with the MERN stack (MongoDB not strictly used here, but Node/Express/React), WebRTC (PeerJS), and Socket.io.
+This project is a real-time video and text chat application submitted as an assessment solution. It is designed to facilitate seamless communication between Agents and Customers, featuring role-based access and smart room management. Built using the MERN stack (Node.js, Express, React) along with WebRTC (PeerJS) for video and Socket.io for real-time signaling.
+
+# 🎥 🔴 WATCH THE DEMO
+
+> [!IMPORTANT]
+> **Don't miss the video walkthrough! It demonstrates the full functionality of the application.**
+>
+> 👉 **[CLICK HERE TO WATCH THE DEMO VIDEO](https://res.cloudinary.com/dkoqcp1g9/video/upload/2026-02-16_01-02-06_jccrv4.mp4?_s=vp-3.7.2)** 👈
 
 ## 🚀 Features
 
